@@ -36,9 +36,6 @@
         <script src="js/modernizr.js"></script>
     </head>
     <body>
-        <div class="kept">
-            <p>Discontinued Page  &#8212; Historical only. Looking for new stuff? Go to <a href="http://setetres.st">setetres.st</a></p>
-        </div>
         <div id="fb-root"></div>
         <div id="wr" class="wr">
             <header>
@@ -113,7 +110,6 @@
                 <div class="center">
                     <p>
                         <a href="http://v1.setetres.st">Balöff &#8212; award winning v1.0 of my website.</a><br/>
-                        <a href="http://inkstarter.cc">InkStarter &#8212; Show me your love! Forever.</a>
                     </p>
                 </div>
                 <h2><img src="img/tit-links.gif" alt"Links"/></h2>
@@ -147,7 +143,6 @@
                         <a href="/vote"><img src="img/ibest.gif" alt="Please vote!"/></a>
                     </p>
                     <p>You're the visitor<br/><img src="img/counter.gif" alt="Several visitors"/></p>
-                    <p><a href="http://setetres.st">Back to 2014</a></p>
                 </div>
             </footer>
         </div>
