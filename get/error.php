@@ -37,17 +37,17 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
         <title>▄▀▄▀▄▀▄ 73 HP ▄▀▄ <?=$title?></title>
-        <meta name="description" content="Hi! My name is Guilherme Pangnotta. I'm a web developer and web designer from Belo Horizonte, Brazil."/>
+        <meta name="description" content="Hello. My name is Guilherme Pangnotta. I'm a web developer and web designer from Belo Horizonte, Brazil."/>
         <link rel="canonical" href="http://1997.setetres.st"/>
 
         <meta property="og:type" content="website"/>
         <meta property="og:title" content="▄▀▄▀▄▀▄ 73 HP ▄▀▄ <?=$title?>"/>
-        <meta property="og:description" content="Hi! My name is Guilherme Pangnotta. I'm a web developer and web designer from Belo Horizonte, Brazil."/>
+        <meta property="og:description" content="Hello. My name is Guilherme Pangnotta. I'm a web developer and web designer from Belo Horizonte, Brazil."/>
         <meta property="og:image" content="http://1997.setetres.st/img/facebook.jpg"/>
         <meta property="og:url" content="http://1997.setetres.st"/>
 
         <meta itemprop="name" content="▄▀▄▀▄▀▄ 73 HP ▄▀▄ <?=$title?>"/>
-        <meta itemprop="description" content="Hi! My name is Guilherme Pangnotta. I'm a web developer and web designer from Belo Horizonte, Brazil."/>
+        <meta itemprop="description" content="Hello. My name is Guilherme Pangnotta. I'm a web developer and web designer from Belo Horizonte, Brazil."/>
         <meta itemprop="image" content="http://1997.setetres.st/img/facebook.jpg"/>
         <meta itemprop="url" content="http://1997.setetres.st"/>
 

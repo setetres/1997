@@ -14,17 +14,17 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
         <title>▄▀▄▀▄▀▄ 73 HP ▄▀▄</title>
-        <meta name="description" content="Hi! My name is Guilherme Pangnotta. I'm a web developer and web designer from Belo Horizonte, Brazil."/>
+        <meta name="description" content="Hello. My name is Guilherme Pangnotta. I'm a web developer and web designer from Belo Horizonte, Brazil."/>
         <link rel="canonical" href="http://1997.setetres.st"/>
 
         <meta property="og:type" content="website"/>
         <meta property="og:title" content="▄▀▄▀▄▀▄ 73 HP ▄▀▄"/>
-        <meta property="og:description" content="Hi! My name is Guilherme Pangnotta. I'm a web developer and web designer from Belo Horizonte, Brazil."/>
+        <meta property="og:description" content="Hello. My name is Guilherme Pangnotta. I'm a web developer and web designer from Belo Horizonte, Brazil."/>
         <meta property="og:image" content="http://1997.setetres.st/img/facebook.jpg"/>
         <meta property="og:url" content="http://1997.setetres.st"/>
 
         <meta itemprop="name" content="▄▀▄▀▄▀▄ 73 HP ▄▀▄"/>
-        <meta itemprop="description" content="Hi! My name is Guilherme Pangnotta. I'm a web developer and web designer from Belo Horizonte, Brazil."/>
+        <meta itemprop="description" content="Hello. My name is Guilherme Pangnotta. I'm a web developer and web designer from Belo Horizonte, Brazil."/>
         <meta itemprop="image" content="http://1997.setetres.st/img/facebook.jpg"/>
         <meta itemprop="url" content="http://1997.setetres.st"/>
 
@@ -65,7 +65,7 @@
                         <img src="img/broken.png" class="broken" alt="BrknImg"/>
                         <div class="info">
                             <marquee>
-                                My name is Guilherme Pangnotta and I'm 26 years old.<br/>I'm a web developer and web designer from Belo Horizonte, Brazil.<br/>
+                                Hello. My name is Guilherme Pangnotta. I'm a web developer and web designer from Belo Horizonte, Brazil.<br/>
                                 <a href="http://go.setetres.st/linkedin"><img src="img/btn-more.gif" alt="More"/></a>
                             </marquee>
                         </div>
