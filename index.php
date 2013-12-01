@@ -110,6 +110,7 @@
                 <div class="center">
                     <p>
                         <a href="http://v1.setetres.st">Balöff &#8212; award winning v1.0 of my website.</a><br/>
+                        <a href="http://go.setetres.st/starter">Starter &#8212; A quick-start responsive framework for front-end development.</a>
                     </p>
                 </div>
                 <h2><img src="img/tit-links.gif" alt"Links"/></h2>
