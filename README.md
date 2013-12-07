@@ -3,7 +3,7 @@
 
 Feeling responsively nostalgic?
 
-![Starter](http://file.setetres.st/img/1997-header.gif?raw=true)
+![1997](http://file.setetres.st/img/1997-header.gif?raw=true)
 
 License
 -------
