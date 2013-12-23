@@ -1,5 +1,7 @@
 $(document).ready(function(){
 
+    $('a[rel=external]').attr('target', '_blank');
+
     var offset = 260;
     $(window).scroll(function(){
         if ($(this).scrollTop() > offset) {
