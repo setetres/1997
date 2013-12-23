@@ -66,7 +66,7 @@
                         <div class="info">
                             <marquee>
                                 Hello. My name is Guilherme Pangnotta. I'm a web developer and web designer from Belo Horizonte, Brazil.<br/>
-                                <a href="http://go.setetres.st/linkedin"><img src="img/btn-more.gif" alt="More"/></a>
+                                <a href="http://go.setetres.st/linkedin" rel="external"><img src="img/btn-more.gif" alt="More"/></a>
                             </marquee>
                         </div>
                     </div>
@@ -74,7 +74,7 @@
                 <h2><img src="img/tit-works.gif" alt="Works"/></h2>
                 <div class="center">
                     <div class="borderBox">
-                        <a href="http://newtonpaiva.br"><img src="img/newton.gif" class="avatar" alt="Newton / HTML + CSS + JS"/></a>
+                        <a href="http://newtonpaiva.br" rel="external"><img src="img/newton.gif" class="avatar" alt="Newton / HTML + CSS + JS"/></a>
                         <div class="info">
                             <marquee>
                                 Newton / HTML + CSS + JS
@@ -82,7 +82,7 @@
                         </div>
                     </div>
                     <div class="borderBox">
-                        <a href="http://belo2014.com.br"><img src="img/belo2014.gif" class="avatar" alt="Belo 2014 / HTML + CSS + JS"/></a>
+                        <a href="http://belo2014.com.br" rel="external"><img src="img/belo2014.gif" class="avatar" alt="Belo 2014 / HTML + CSS + JS"/></a>
                         <div class="info">
                             <marquee>
                                 Belo 2014 / HTML + CSS + JS
@@ -90,7 +90,7 @@
                         </div>
                     </div>
                     <div class="borderBox">
-                        <a href="http://jchebly.com.br"><img src="img/jchebly.gif" class="avatar" alt="JCHEBLY / HTML + CSS + JS"/></a>
+                        <a href="http://jchebly.com.br" rel="external"><img src="img/jchebly.gif" class="avatar" alt="JCHEBLY / HTML + CSS + JS"/></a>
                         <div class="info">
                             <marquee>
                                 JCHEBLY / HTML + CSS + JS
@@ -98,7 +98,7 @@
                         </div>
                     </div>
                     <div class="borderBox">
-                        <a href="http://superliga.jchebly.com.br"><img src="img/superliga.gif" class="avatar" alt="JCHEBLY Superliga / HTML + CSS + JS"/></a>
+                        <a href="http://superliga.jchebly.com.br" rel="external"><img src="img/superliga.gif" class="avatar" alt="JCHEBLY Superliga / HTML + CSS + JS"/></a>
                         <div class="info">
                             <marquee>
                                 JCHEBLY Superliga / HTML + CSS + JS
@@ -109,23 +109,23 @@
                 <h2><img src="img/tit-extras.gif" alt="Extras"/></h2>
                 <div class="center">
                     <p>
-                        <a href="http://v1.setetres.st">Balöff &#8212; award winning v1.0 of my website.</a><br/>
-                        <a href="http://go.setetres.st/starter">Starter &#8212; A quick-start responsive framework for front-end development.</a>
+                        <a href="http://v1.setetres.st" rel="external">v1 &#8212; award winning v1.0 of my website.</a><br/>
+                        <a href="http://go.setetres.st/starter" rel="external">Starter &#8212; A quick-start responsive framework for front-end development.</a>
                     </p>
                 </div>
                 <h2><img src="img/tit-links.gif" alt"Links"/></h2>
                 <div class="center">
                     <ul class="links">
-                        <li><a href="http://go.setetres.st/facebook">Facebook</a></li>
-                        <li><a href="http://go.setetres.st/foursquare">Foursquare</a></li>
-                        <li><a href="http://go.setetres.st/google">Google</a></li>
-                        <li><a href="http://go.setetres.st/github">Github</a></li>
-                        <li><a href="http://go.setetres.st/instagram">Instagram</a></li>
-                        <li><a href="http://go.setetres.st/linkedin">Linkedin</a></li>
-                        <li><a href="http://go.setetres.st/tumblr">Tumblr</a></li>
-                        <li><a href="http://go.setetres.st/twitter">Twitter</a></li>
-                        <li><a href="http://go.setetres.st/vimeo">Vimeo</a></li>
-                        <li><a href="http://go.setetres.st/like"><i>♥</i></a></li>
+                        <li><a href="http://go.setetres.st/facebook" rel="external">Facebook</a></li>
+                        <li><a href="http://go.setetres.st/foursquare" rel="external">Foursquare</a></li>
+                        <li><a href="http://go.setetres.st/google" rel="external">Google</a></li>
+                        <li><a href="http://go.setetres.st/github" rel="external">Github</a></li>
+                        <li><a href="http://go.setetres.st/instagram" rel="external">Instagram</a></li>
+                        <li><a href="http://go.setetres.st/linkedin" rel="external">Linkedin</a></li>
+                        <li><a href="http://go.setetres.st/tumblr" rel="external">Tumblr</a></li>
+                        <li><a href="http://go.setetres.st/twitter" rel="external">Twitter</a></li>
+                        <li><a href="http://go.setetres.st/vimeo" rel="external">Vimeo</a></li>
+                        <li><a href="http://go.setetres.st/like" rel="external"><i>♥</i></a></li>
                     </ul>
                 </div>
                 <h2><img src="img/tit-guestbook.gif" alt="Guestbook"/></h2>
@@ -141,7 +141,7 @@
                 <div class="center">
                     <p class="vote">
                         Click below and vote for 73 HP on iBest Top30!!~'<br/>
-                        <a href="/vote"><img src="img/ibest.gif" alt="Please vote!"/></a>
+                        <a href="/404"><img src="img/ibest.gif" alt="Please vote!"/></a>
                     </p>
                     <p>You're the visitor<br/><img src="img/counter.gif" alt="Several visitors"/></p>
                 </div>
