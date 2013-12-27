@@ -34,7 +34,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="author" content="Sete Três - http://setetres.st"/>
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
 
         <title>▄▀▄▀▄▀▄ 73 HP ▄▀▄ <?=$title?></title>
         <meta name="description" content="Hello. My name is Guilherme Pangnotta. I'm a web developer and web designer from Belo Horizonte, Brazil."/>
@@ -52,7 +52,7 @@
         <meta itemprop="url" content="http://1997.setetres.st"/>
 
         <link rel="icon" href="favicon.ico"/>
-        <link rel="stylesheet" href="../css/normalize.css">
+        <link rel="stylesheet" href="../css/normalize.css"/>
         <link rel="stylesheet" href="../css/main.css"/>
 
         <script src="js/modernizr.js"></script>
