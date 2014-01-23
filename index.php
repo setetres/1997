@@ -36,6 +36,9 @@
         <script src="js/modernizr.js"></script>
     </head>
     <body>
+        <div class="kept">
+            <p>Discontinued Page  &#8212; Historical only. Looking for new stuff? Go to <a href="http://setetres.st">setetres.st</a></p>
+        </div>
         <div id="fb-root"></div>
         <div id="wr" class="wr">
             <header>
@@ -109,7 +112,8 @@
                 <h2><img src="img/tit-extras.gif" alt="Extras"/></h2>
                 <div class="center">
                     <p>
-                        <a href="http://v1.setetres.st" rel="external">v1 &#8212; award winning v1.0 of my website.</a><br/>
+                        <a href="http://inkstarter.cc" rel="external">InkStarter.cc &#8212; You draw. You vote. I tattoo myself!</a><br/>
+                        <a href="http://v1.setetres.st" rel="external">v1 &#8212; Award winning v1.0 of my website.</a><br/>
                         <a href="http://go.setetres.st/starter" rel="external">Starter &#8212; A quick-start responsive framework for frontend development.</a>
                     </p>
                 </div>
