@@ -12,4 +12,5 @@ License
 
 1997 is under a [Creative Commons Attribution License].
 
+[setetres.st]: http://setetres.st
 [Creative Commons Attribution License]: http://creativecommons.org/licenses/by/4.0
