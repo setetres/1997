@@ -117,7 +117,7 @@
                         <a href="http://go.setetres.st/starter" rel="external">Starter &#8212; A quick-start responsive framework for frontend development.</a>
                     </p>
                 </div>
-                <h2><img src="img/tit-links.gif" alt"Links"/></h2>
+                <h2><img src="img/tit-links.gif" alt="Links"/></h2>
                 <div class="center">
                     <ul class="links">
                         <li><a href="http://go.setetres.st/facebook" rel="external">Facebook</a></li>
