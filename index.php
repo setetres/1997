@@ -113,8 +113,10 @@
                 <div class="center">
                     <p>
                         <a href="http://inkstarter.cc" rel="external">InkStarter.cc &#8212; You draw. You vote. I tattoo myself!</a><br/>
+                        <a href="http://v2.setetres.st" rel="external">v2 &#8212; v2.0 of my website.</a><br/>
                         <a href="http://v1.setetres.st" rel="external">v1 &#8212; Award winning v1.0 of my website.</a><br/>
-                        <a href="http://go.setetres.st/starter" rel="external">Starter &#8212; A quick-start responsive framework for frontend development.</a>
+                        <a href="http://go.setetres.st/starter" rel="external">Starter &#8212; A quick-start responsive framework for frontend development.</a><br/>
+                        <a href="http://go.setetres.st/sasstarter" rel="external">Sasstarter &#8212; A quick-start responsive framework for frontend development with Sass.</a>
                     </p>
                 </div>
                 <h2><img src="img/tit-links.gif" alt="Links"/></h2>
@@ -137,7 +139,7 @@
                     <p>Before you leave please sign my guestbook. Thank you!!1</p>
                     <div class="fb-mask">
                         <img src="img/baby.gif" alt="Dance Baby" class="baby"/>
-                        <div class="fb-comments" data-href="http://1997.setetres.st" data-colorscheme="dark" data-width="160" data-numposts="30"></div>
+                        <div class="fb-comments" data-href="http://1997.setetres.st" data-colorscheme="dark" data-width="700" data-numposts="30"></div>
                     </div>
                 </div>
             </div>
