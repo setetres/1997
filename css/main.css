@@ -70,11 +70,12 @@ footer {
 html, body {
     width: 100%;
     height: 100%;
+    overflow-x: hidden;
+    overflow-y: auto;
 }
 
 body {
     background: #000000 url(../img/bg-body.gif) top left repeat;
-    overflow-x: hidden;
 }
 
 /* error */
