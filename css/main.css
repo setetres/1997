@@ -256,8 +256,8 @@ footer p {
     z-index: 2;
 }
 
-.just-hanging-left {left: 50%; margin-left: -635px;}
-.just-hanging-right {right: 50%; margin-right: -645px;}
+.just-hanging-left {left: 50%; margin-left: -645px;}
+.just-hanging-right {right: 50%; margin-right: -635px;}
 
 .fuck-you {
     bottom: 0;

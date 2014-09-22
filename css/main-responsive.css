@@ -8,8 +8,8 @@
 
 @media all and (min-width: 1000px) and (max-width: 1249px) {
     .center {width: 940px;}
-    .just-hanging-left {margin-left: -515px;}
-    .just-hanging-right {margin-right: -525px;}
+    .just-hanging-left {margin-left: -525px;}
+    .just-hanging-right {margin-right: -515px;}
     .logo .fl {margin-left: 73px;}
     .logo .fr {margin-right: 73px;}
 }
@@ -18,8 +18,8 @@
 
 @media (min-width: 770px) and (max-width: 999px) {
     .center {width: 700px;}
-    .just-hanging-left {margin-left: -395px;}
-    .just-hanging-right {margin-right: -405px;}
+    .just-hanging-left {margin-left: -405px;}
+    .just-hanging-right {margin-right: -395px;}
     .logo .fl, .logo .fr {display: none;}
     .main h2, .main p {padding: 0 40px;}
 }
@@ -28,8 +28,8 @@
 
 @media (min-width: 480px) and (max-width: 769px) {
     .center {width: 460px;}
-    .just-hanging-left {margin-left: -275px;}
-    .just-hanging-right {margin-right: -285px;}
+    .just-hanging-left {margin-left: -285px;}
+    .just-hanging-right {margin-right: -275px;}
     .logo .fl, .logo .fr {display: none;}
     .logo a {width: 100%; background-size: 85% auto;}
     .under-construction {width: 100%; margin-left: -230px;}
