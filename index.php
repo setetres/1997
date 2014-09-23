@@ -37,7 +37,7 @@
     </head>
     <body>
         <div class="kept">
-            <p>Discontinued Page  &#8212; Historical only. Looking for new stuff? Go to <a href="http://setetres.st">setetres.st</a></p>
+            <p>Discontinued Page  &#8212; Historical only. Looking for new stuff? Go to <a href="http://setetres.st" target="_top">setetres.st</a></p>
         </div>
         <div id="fb-root"></div>
         <div id="wr" class="wr">
