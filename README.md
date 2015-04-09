@@ -5,7 +5,7 @@ Feeling responsively nostalgic?
 
 Discontinued Page  &#8212; Historical only. Looking for new stuff? Go to [setetres.st].
 
-![1997](http://file.setetres.st/img/1997-header.gif?raw=true)
+![1997](http://files.setetres.st/img/1997-header.gif?v=1&raw=true)
 
 License
 -------
