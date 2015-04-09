@@ -58,9 +58,6 @@
         <script src="js/modernizr.js"></script>
     </head>
     <body class="errorPage">
-        <div class="kept">
-            <p>Discontinued Page  &#8212; Historical only. Looking for new stuff? Go to <a href="http://setetres.st" target="_top">setetres.st</a></p>
-        </div>
         <div id="wr" class="wr">
             <table cellpadding="3" cellspacing="5" width="400">
                 <tbody>
@@ -128,6 +125,7 @@
                 $('#error')[0].play();
             });
         </script>
+        <script src="http://files.setetres.st/js/discontinued-page.js"></script>
 <? include("../inc/analytics.php");?>
     </body>
 </html>

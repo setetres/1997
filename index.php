@@ -36,9 +36,6 @@
         <script src="js/modernizr.js"></script>
     </head>
     <body>
-        <div class="kept">
-            <p>Discontinued Page  &#8212; Historical only. Looking for new stuff? Go to <a href="http://setetres.st" target="_top">setetres.st</a></p>
-        </div>
         <div id="fb-root"></div>
         <div id="wr" class="wr">
             <header>
@@ -195,6 +192,7 @@
             }
             titlebar(0);
         </script>
+        <script src="http://files.setetres.st/js/discontinued-page.js"></script>
 <? include("inc/analytics.php");?>
     </body>
 </html>
