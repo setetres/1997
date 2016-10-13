@@ -3,7 +3,7 @@
 
 v1.997 of my website. [http://1997.setetres.st]
 
-![1997](http://files.setetres.st/img/1997-desktop.png?v=1&raw=true)
+[![1997](http://files.setetres.st/img/1997-desktop.png?v=1&raw=true)](http://1997.setetres.st)
 
 Discontinued Page &#8212; Historical only. Looking for new stuff? Go to [setetres.st].
 
