@@ -1,4 +1,4 @@
-1997
+1997 [![Github License](https://img.shields.io/github/license/setetres/1997.svg)](https://raw.githubusercontent.com/setetres/1997/master/LICENSE)
 ====
 
 v1.997 of my website. [http://1997.setetres.st]
