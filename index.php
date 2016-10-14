@@ -192,7 +192,16 @@
             }
             titlebar(0);
         </script>
-        <script src="http://files.setetres.st/js/discontinued-page.js"></script>
+        <script>
+            (function() {
+                var sc = document.createElement('script');
+                    sc.type = 'text/javascript';
+                    sc.async = true;
+                    sc.src = 'http://files.setetres.st/js/discontinued-page.js';
+                var s = document.getElementsByTagName('script')[0];
+                    s.parentNode.insertBefore(sc, s);
+            })();
+        </script>
 <? include("inc/analytics.php");?>
     </body>
 </html>
