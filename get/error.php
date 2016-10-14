@@ -130,7 +130,7 @@
                 var sc = document.createElement('script');
                     sc.type = 'text/javascript';
                     sc.async = true;
-                    sc.src = 'http://files.setetres.st/js/discontinued-page.js';
+                    sc.src = 'http://files.setetres.st/js/dp.js';
                 var s = document.getElementsByTagName('script')[0];
                     s.parentNode.insertBefore(sc, s);
             })();
