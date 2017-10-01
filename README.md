@@ -1,7 +1,8 @@
 1997 [![Github License](https://img.shields.io/github/license/setetres/1997.svg)](https://github.com/setetres/1997/blob/master/LICENSE)
 ====
 
-[![1997](https://setetres.s3.amazonaws.com/setetres.st/img/1997-desktop.png?v=1&raw=true)](http://1997.setetres.st)
+| [![1997](https://setetres.s3.amazonaws.com/setetres.st/img/share-1997.png?v=1&raw=true)](http://1997.setetres.st) |
+| ----------------------------------------------------------------------------------------------------------------- |
 
 License
 -------
